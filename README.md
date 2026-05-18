@@ -16,6 +16,15 @@ Sou apaixonada por tecnologia, desenvolvimento e aprendizado constante. Gosto de
         />
     </a>
 </p>
+<p align="left">
+    <a href="https://hitoz.itch.io/" target="_blank">
+        <img 
+            alt="itch.io"
+            title="Meu perfil no itch.io"
+            src="https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white"
+        />
+    </a>
+</p>
 
 ---
 
